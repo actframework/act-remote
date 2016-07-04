@@ -385,7 +385,7 @@ Encode POJO data in JSON string
 {
     "ctct": {
         "name": "peter",
-        "mobile: "0403123123",
+        "mobile": "0403123123",
         "otherPhones": ["02 89901123"],
         "addresses": {
             "HOME": {
