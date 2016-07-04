@@ -13,6 +13,6 @@ target
 classes
 *.iml
 deploy
-**/_sys_start.do.not.delete
+**/_sys_metric.do.not.delete
 **/.global.id.do-not-delete
 **/.app.id.do-not-delete
