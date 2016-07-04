@@ -1,0 +1,18 @@
+*.class
+.classpath
+.project
+.settings
+.vscode
+# Package Files #
+*.jar
+*.war
+*.ear
+lib
+target
+.idea
+classes
+*.iml
+deploy
+**/_sys_start.do.not.delete
+**/.global.id.do-not-delete
+**/.app.id.do-not-delete
